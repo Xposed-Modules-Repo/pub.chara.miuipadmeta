@@ -1,1 +1,0 @@
--keep class pub.chara.miuipadmeta.MainHook

@@ -30,6 +30,12 @@ PC模式下的快捷键依旧可用，PC模式的快捷键是另一套逻辑实�
 
     
 
+### Github repo
+
+https://github.com/CwithW/MiuiPadMeta
+
+
+
 ### 鸣谢 Special thanks
 
 [MiuiPadESC](https://github.com/YifePlayte/MiuiPadESC) 配合此模块可以恢复ESC和禁用Win-D快捷键，实现远程桌面下全部键位可用

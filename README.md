@@ -8,9 +8,9 @@ Restore Meta/Win key function on Mi Pad 5 series, and disable Alt-Tab hotkey, on
 
 PC模式下的快捷键依旧可用，PC模式的快捷键是另一套逻辑实现
 
-![Screenshot_2023-01-18-03-08-54-671_com.microsoft.rdc.androidx](README.assets/Screenshot_2023-01-18-03-08-54-671_com.microsoft.rdc.androidx.jpg)
+![Screenshot_2023-01-18-03-08-54-671_com.microsoft.rdc.androidx](https://github.com/Xposed-Modules-Repo/pub.chara.miuipadmeta/blob/main/README.assets/Screenshot_2023-01-18-03-08-54-671_com.microsoft.rdc.androidx.jpg)
 
-![Screenshot_2023-01-18-03-09-31-674_com.microsoft.rdc.androidx](README.assets/Screenshot_2023-01-18-03-09-31-674_com.microsoft.rdc.androidx.jpg)
+![Screenshot_2023-01-18-03-09-31-674_com.microsoft.rdc.androidx](https://github.com/Xposed-Modules-Repo/pub.chara.miuipadmeta/blob/main/README.assets/Screenshot_2023-01-18-03-09-31-674_com.microsoft.rdc.androidx.jpg)
 
 
 

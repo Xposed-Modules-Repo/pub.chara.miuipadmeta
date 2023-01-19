@@ -6,27 +6,35 @@ Restore Meta/Win key function on Mi Pad 5 series, and disable Alt-Tab hotkey, cu
 
 
 
-PC模式下的快捷键依旧可用，PC模式的快捷键是另一套逻辑实现
+MIUI Android11: PC模式下的快捷键依旧可用，PC模式的快捷键是另一套逻辑实现
 
 
 
 ### 系统版本支持情况 OS version support
 
-| 系统版本         | 恢复Meta键 | 禁用Alt-Tab |
-| ---------------- | ---------- | ----------- |
-| MIUI12 Android11 | ?          | ?           |
-| MIUI13 Android11 | √          | √           |
-| MIUI13 Android12 | ?          | ?           |
-| MIUI14 Android13 | ×          | √           |
-| 非MIUI系统       | N/A        | ? *         |
+| 系统版本           | 恢复Meta键 | 禁用Alt-Tab |
+| ------------------ | ---------- | ----------- |
+| MIUI12.5 Android11 | ?          | ?           |
+| MIUI13 Android11   | √          | √           |
+| MIUI13 Android12   | ×          | ?           |
+| MIUI14 Android13   | ×          | √           |
+| 非MIUI系统         | N/A        | ? *         |
 
 √ 表示经过测试，目前支持
 
-?表示没有经过测试，可能支持
+? 表示没有经过测试，可能支持
 
-×表示经过测试，目前不支持
+× 表示经过测试，目前不支持
 
-> *禁用Alt-Tab理论上在所有安卓系统上支持。
+> *禁用Alt-Tab理论上在所有Android系统上支持。
+
+
+
+### 鸣谢 Special thanks
+
+[MiuiPadESC](https://github.com/YifePlayte/MiuiPadESC) 配合此模块可以恢复ESC和禁用Win-D快捷键，实现远程桌面下全部键位可用
+
+
 
 ### 实现方法 Implementation detail
 
@@ -47,13 +55,7 @@ PC模式下的快捷键依旧可用，PC模式的快捷键是另一套逻辑实�
 
    
 
-### 鸣谢 Special thanks
-
-[MiuiPadESC](https://github.com/YifePlayte/MiuiPadESC) 配合此模块可以恢复ESC和禁用Win-D快捷键，实现远程桌面下全部键位可用
-
-
-
 ### 截图 Screenshot
 
-![Screenshot_2023-01-18-03-08-54-671_com.microsoft.rdc.androidx](E:\workflow\MiuiPadMeta\gitrepo\pub.chara.miuipadmeta\README.assets\Screenshot_2023-01-18-03-08-54-671_com.microsoft.rdc.androidx-16741303149715.jpg)
+![Screenshot_2023-01-18-03-08-54-671_com.microsoft.rdc.androidx](README.assets/Screenshot_2023-01-18-03-08-54-671_com.microsoft.rdc.androidx-16741303149715.jpg)
 ![Screenshot_2023-01-18-03-09-31-674_com.microsoft.rdc.androidx](README.assets/Screenshot_2023-01-18-03-09-31-674_com.microsoft.rdc.androidx.jpg)

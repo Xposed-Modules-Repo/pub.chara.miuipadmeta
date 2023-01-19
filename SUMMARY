@@ -1,2 +1,2 @@
-为小米平板5系列恢复键盘Meta/Win键功能，同时禁用Alt-Tab快捷键。非小米平板仅可以禁用Alt-Tab快捷键。
-Restore Meta/Win key function on Mi Pad 5 series, and disable Alt-Tab hotkey, adapted for Android 11-13 MIUI. Only disables Alt-Tab hotkey for Generic Android devices.
+为MIUI设备恢复键盘Meta/Win键功能，同时禁用Alt-Tab快捷键。这样就可以在远程桌面里用Meta键和Alt-Tab了。
+Restore Meta/Win key function for MIUI devices, and disable Alt-Tab hotkey. Allows you to use Meta and Alt-Tab key in Remote Desktop。

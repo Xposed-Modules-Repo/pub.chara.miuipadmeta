@@ -1,2 +1,2 @@
-为小米平板5系列恢复键盘Meta/Win键功能，同时禁用Alt-Tab快捷键，目前支持Android11 MIUI，其他 Android 版本仅支持禁用Alt-Tab
-Restore Meta/Win key function on Mi Pad 5 series, and disable Alt-Tab hotkey, currently supported Android11 MIUI, only disable Alt-Tab hotkey is supported on other Android versions
+为小米平板5系列恢复键盘Meta/Win键功能，同时禁用Alt-Tab快捷键，适配了Android11-13的MIUI
+Restore Meta/Win key function on Mi Pad 5 series, and disable Alt-Tab hotkey, adapted for Android 11-13 MIUI

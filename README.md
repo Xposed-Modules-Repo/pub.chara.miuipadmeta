@@ -14,9 +14,9 @@ PC模式下的快捷键依旧可用，PC模式的快捷键是另一套逻辑实�
 
 | 系统版本         | 恢复Meta键 | 禁用Alt-Tab |
 | ---------------- | ---------- | ----------- |
-| MIUI12 Android11 | ?          | √           |
+| MIUI12 Android11 | ?          | ?           |
 | MIUI13 Android11 | √          | √           |
-| MIUI13 Android12 | ?          | √           |
+| MIUI13 Android12 | ?          | ?           |
 | MIUI14 Android13 | ×          | √           |
 | 非MIUI系统       | N/A        | ? *         |
 
